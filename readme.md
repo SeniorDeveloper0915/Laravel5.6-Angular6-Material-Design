@@ -2,7 +2,7 @@
 
 ![logo](image.jpg "Logo")
 
-This is a simple Single Page Application starter for [Laravel 5.6.x](https://laravel.com) + [Angular 5](https://angular.io/) and [AdminLTE](https://github.com/almasaeed2010/AdminLTE).
+This is a simple Single Page Application starter for [Laravel 5.6.x](https://laravel.com) + [Angular 6](https://angular.io/) and [AdminLTE](https://github.com/almasaeed2010/AdminLTE).
 
 ## Installation
 
@@ -20,7 +20,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build. When running the command `ng build` the `dist/` directory will be generated inside the Laravel `public/` directory.
 
 ## Running unit tests
 
